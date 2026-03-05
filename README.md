@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Josh! 👋
 
-<!--
-**Josh396s/Josh396s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning Engineer** and recent **UC San Diego MSCS** grad (class of '25) based in the Anaheim/Fullerton area. I'm passionate about building intelligent systems, working with data, and solving complex problems through AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- **Email.ing:** An intelligent email management system designed to streamline communication.
+- Refining my skills in **Large Language Models (LLMs)** and **Data Science** workflows.
+- Exploring new ways to bridge the gap between research and production-ready AI.
+
+### 🛠️ Technical Toolkit
+- **Languages:** Python, C++, SQL, GoLang, HTML/CSS, JavaScript
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LLMs
+- **Tools:** Git, Docker, AWS, Google Cloud, Linux
+
+### 📊 My Stats
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-angel&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-angel&layout=compact&theme=radical)
+
+### 🏃 Beyond the Code
+When I'm not training models or debugging code, you can find me:
+- 🏋️‍♂️ At the gym
+- 🥾 Going for a run
+- 🎧 Listening to **The Weeknd**
+- 🏀 Suffering watching the LA Clippers
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/joshangel491/) 
+- Email: joshangel491@gmail.com
+
+*"The best way to predict the future is to invent it."*
