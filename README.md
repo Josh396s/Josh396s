@@ -15,8 +15,8 @@ I'm a **Machine Learning Engineer** and recent **UC San Diego MSCS** grad (class
 - **Tools:** Git, Docker, AWS, Google Cloud, Linux
 
 ### 📊 My Stats
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh396s&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh396s&layout=compact&theme=radical)
+![Josh's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Josh396s&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josh396s&layout=compact&theme=radical)
 
 ### 🏃 Beyond the Code
 When I'm not training models or debugging code, you can find me:
