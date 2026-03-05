@@ -10,13 +10,13 @@ I'm a **Machine Learning Engineer** and recent **UC San Diego MSCS** grad (class
 - Exploring new ways to bridge the gap between research and production-ready AI.
 
 ### 🛠️ Technical Toolkit
-- **Languages:** Python, C++, SQL, GoLang, HTML/CSS, JavaScript
+- **Languages:** Python, C/C++, SQL, GoLang, HTML/CSS, JavaScript
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LLMs
 - **Tools:** Git, Docker, AWS, Google Cloud, Linux
 
 ### 📊 My Stats
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-angel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-angel&layout=compact&theme=radical)
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh396s&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh396s&layout=compact&theme=radical)
 
 ### 🏃 Beyond the Code
 When I'm not training models or debugging code, you can find me:
