@@ -1,6 +1,6 @@
 # Hi there, I'm Josh! 👋
 
-I'm a **Machine Learning Engineer** and recent **UC San Diego MSCS** grad (class of '25) based in the Anaheim/Fullerton area. I'm passionate about building intelligent systems, working with data, and solving complex problems through AI.
+I'm a **Machine Learning Engineer** and recent **UC San Diego MSCS** grad (class of '25). I'm passionate about building intelligent systems, working with data, and solving complex problems through AI.
 
 ---
 
